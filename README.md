@@ -1,6 +1,6 @@
 # 👨🏻‍💻 [Hassan Mahmood](https://linkedin.com/in/ihassanmahmood)
 
-[![GitHub followers](https://img.shields.io/github/followers/hassan-arif?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/hassan-arif?label=Follow&style=social)](https://github.com/hassan-arif/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-hassan.mahmood@sinarc.co-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hassan.mahmood@sinarc.co)](mailto:hassan.mahmood@sinarc.co)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ihasssanmahmood/)](https://www.linkedin.com/in/ihassanmahmood/)
 
