@@ -40,7 +40,10 @@
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
+    </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> 
     </a> 
@@ -73,6 +76,10 @@
     <a href="https://developer.android.com/java" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
+    <!-- Desktop Development -->
+    <a href="https://www.riverbankcomputing.com/software/pyqt" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="pyqt5" width="40" height="40"/> 
+    </a>
     <!-- UI/UX Design -->
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> 
