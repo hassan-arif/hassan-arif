@@ -139,3 +139,15 @@
     </a> 
   </p>
 </details>
+
+<details>
+  <summary><b>📊&nbsp;&nbsp;GitHub&nbsp;Analytics</b></summary>
+  <br/>
+  <div style="display: flex; justify-content: center;" align='center'>
+    <img style="max-width: 48%;" src="https://streak-stats.demolab.com/?user=hassan-arif&theme=react" />
+    <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-arif&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  <div align='center'>
+    <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-arif&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false"/>
+  </div>
+</details>
