@@ -143,13 +143,13 @@
 <details>
   <summary><b>📊&nbsp;&nbsp;GitHub&nbsp;Analytics</b></summary>
   <br/>
-  <div style="display: flex; justify-content: center">
-    <img src="https://streak-stats.demolab.com/?user=hassan-arif&theme=react" />
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=hassan-arif&theme=react" alt="GitHub Streak" />
   </div>
-  <div style="display: flex; justify-content: center; margin-top: 10px">
-    <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-arif&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false"/>
+  <div align="center" style="margin-top: 10px;">
+    <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-arif&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph" />
   </div>
-  <div style="display: flex; justify-content: center; margin-top: 10px">
-    <img style="max-width: 100%; border: 1px solid gray; border-radius: 5px;" src="assets/language-stats.png" title="Updates automatically via GitHub Actions"/>
+  <div align="center" style="margin-top: 10px;">
+    <img style="max-width: 100%; border: 1px solid gray; border-radius: 5px;" src="assets/language-stats.png" alt="Language Stats" title="Updates automatically via GitHub Actions" />
   </div>
 </details>
