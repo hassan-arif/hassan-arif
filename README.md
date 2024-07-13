@@ -143,11 +143,13 @@
 <details>
   <summary><b>📊&nbsp;&nbsp;GitHub&nbsp;Analytics</b></summary>
   <br/>
-  <div style="display: flex; justify-content: center;" align='center'>
-    <img style="max-width: 48%;" src="https://streak-stats.demolab.com/?user=hassan-arif&theme=react" />
-    <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-arif&layout=compact&langs_count=7&theme=dracula"/>
+  <div style="display: flex; justify-content: center">
+    <img src="https://streak-stats.demolab.com/?user=hassan-arif&theme=react" />
   </div>
-  <div align='center'>
+  <div style="display: flex; justify-content: center; margin-top: 10px">
     <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-arif&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false"/>
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px">
+    <img style="max-width: 100%; border: 1px solid gray; border-radius: 5px;" src="assets/language-stats.png" title="Updates automatically via GitHub Actions"/>
   </div>
 </details>
