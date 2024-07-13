@@ -2,8 +2,6 @@ import requests
 import os
 import matplotlib.pyplot as plt
 
-# os.environ["PERSONAL_ACCESS_TOKEN"] = "xyz"
-
 def get_repos(url, headers):
     repos = []
     while url:
@@ -14,21 +12,21 @@ def get_repos(url, headers):
         url = response.links.get('next', {}).get('url')
     return repos
 
-def fetch_all_repos(token):
-    headers = {"Authorization": f"token {token}"}
-    print("Using token:", token)  # For debugging purposes
+def fetch_all_repos(personal_token, github_token):
+    personal_headers = {"Authorization": f"token {personal_token}"}
+    github_headers = {"Authorization": f"token {github_token}"}
     
     # Fetch user repos
-    user_repos = get_repos("https://api.github.com/user/repos?per_page=100", headers)
+    user_repos = get_repos("https://api.github.com/user/repos?per_page=100", personal_headers)
     
     # Fetch collaborated repos
-    collab_repos = get_repos("https://api.github.com/user/repos?affiliation=collaborator&per_page=100", headers)
+    collab_repos = get_repos("https://api.github.com/user/repos?affiliation=collaborator&per_page=100", personal_headers)
     
     # Fetch organization repos
-    orgs = get_repos("https://api.github.com/user/orgs", headers)
+    orgs = get_repos("https://api.github.com/user/orgs", personal_headers)
     org_repos = []
     for org in orgs:
-        org_repos.extend(get_repos(f"https://api.github.com/orgs/{org['login']}/repos?per_page=100", headers))
+        org_repos.extend(get_repos(f"https://api.github.com/orgs/{org['login']}/repos?per_page=100", github_headers))
     
     return user_repos + collab_repos + org_repos
 
@@ -69,11 +67,13 @@ def plot_languages(languages):
     plt.savefig('assets/language-stats.png', facecolor='#20232a')
 
 def main():
-    token = os.getenv("PERSONAL_ACCESS_TOKEN")
-    if not token:
-        raise Exception("PERSONAL_ACCESS_TOKEN environment variable is not set")
+    personal_token = os.getenv("PERSONAL_ACCESS_TOKEN")
+    github_token = os.getenv("GITHUB_TOKEN")
     
-    all_repos = fetch_all_repos(token)
+    if not personal_token or not github_token:
+        raise Exception("Both PERSONAL_ACCESS_TOKEN and GITHUB_TOKEN environment variables must be set")
+    
+    all_repos = fetch_all_repos(personal_token, github_token)
     
     languages = analyze_languages(all_repos)
     plot_languages(languages)
