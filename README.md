@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhassanarifmahmood&logo=leetcode&logoColor=yellow)](https://leetcode.com/hassanarifmahmood/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=hassan-arif&color=red&style=flat)](https://komarev.com/ghpvc/?username=hassan-arif)
 
-:wave: Hello! I'm cofounder of [@sinarc](https://github.com/Sinarc-co) and love learning technologies, building softwares, and automating my workflows. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
+:wave: Hello! I love learning technologies, building softwares, and automating my workflows. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -148,8 +148,5 @@
   </div>
   <div align="center" style="margin-top: 10px;">
     <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-arif&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph" />
-  </div>
-  <div align="center" style="margin-top: 10px;">
-    <img style="max-width: 100%; border: 1px solid gray; border-radius: 5px;" src="assets/language-stats.png" alt="Language Stats" title="Updates automatically via GitHub Actions" />
   </div>
 </details>
