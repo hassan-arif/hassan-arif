@@ -51,13 +51,13 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
   </tr>
     
   <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>  
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RESTful API
@@ -90,6 +90,9 @@
       <img src="https://skillicons.dev/icons?i=qt" width="45" height="45" alt="Next.js" />
       <br>PyQt
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="Next.js" />
       <br>Tensorflow
@@ -98,9 +101,6 @@
       <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="Next.js" />
       <br>PyTorch
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Next.js" />
       <br>Golang
@@ -129,6 +129,9 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
       <br>SQLite
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
@@ -141,9 +144,6 @@
       <img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="45" height="45" />
       <br>Android Studio
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Next.js" />
       <br>Ruby
@@ -168,6 +168,9 @@
       <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Next.js" />
       <br>Bash
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Next.js" />
       <br>Linux
@@ -184,9 +187,6 @@
       <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Next.js" />
       <br>Anaconda
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
       <br>Illustrator
