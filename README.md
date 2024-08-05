@@ -1,7 +1,7 @@
 # 👨🏻‍💻 [Hassan Mahmood](https://linkedin.com/in/ihassanmahmood)
 
 [![GitHub followers](https://img.shields.io/github/followers/hassan-arif?label=Follow&style=social)](https://github.com/hassan-arif/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-hassan.mahmood@sinarc.co-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hassan.mahmood@sinarc.co)](mailto:hassan.mahmood@sinarc.co)
+[![Gmail Badge](https://img.shields.io/badge/-hassanarifmahmood@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hassanarifmahmood@gmail.com)](mailto:hassanarifmahmood@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ihasssanmahmood/)](https://www.linkedin.com/in/ihassanmahmood/)
 
 [![wakatime](https://wakatime.com/badge/user/8c559fa0-fa9f-424b-b7e9-f23470599396.svg)](https://wakatime.com/@8c559fa0-fa9f-424b-b7e9-f23470599396)
@@ -94,6 +94,10 @@
   
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=selenium" width="45" height="45" alt="Next.js" />
+      <br>Selenium
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="Next.js" />
       <br>Tensorflow
     </td>
@@ -125,13 +129,17 @@
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
       <br>SQLite
     </td>
-  </tr>
-  
-  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="SQLite" />
+      <br>MongoDB
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
@@ -160,6 +168,9 @@
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
       <br>C++
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
       <br>Github
@@ -168,9 +179,6 @@
       <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Next.js" />
       <br>Bash
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Next.js" />
       <br>Linux
