@@ -204,6 +204,7 @@
 
 </details>
 
+<!--
 <details>
   <summary><b>📊&nbsp;&nbsp;GitHub&nbsp;Analytics</b></summary>
   <br/>
@@ -224,7 +225,10 @@
       </td>
       </tr>
   </table>
-<!--   <div align="center">
+  
+  
+  <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan-arif&theme=react"/>
-  </div> -->
+  </div>
 </details>
+-->
