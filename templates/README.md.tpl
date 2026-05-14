@@ -11,4 +11,39 @@
 
 <sub>_open to interesting work_</sub>
 
+{{with recentRepos 10}}
+#### 🌱 My latest projects
+{{range .}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+{{end}}
+
+{{with recentContributions 10}}
+#### 👷 Check out what I'm currently working on
+{{range .}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+{{end}}
+
+{{with recentPullRequests 5}}
+#### 🔨 My recent Pull Requests
+{{range .}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+{{end}}
+
+{{with recentReleases 5}}
+#### 🚀 Latest releases I've contributed to
+{{range .}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
+{{end}}
+
+{{with recentStars 5}}
+#### ⭐ Recent Stars
+{{range .}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+{{end}}
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=hassan-arif&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true) -->
