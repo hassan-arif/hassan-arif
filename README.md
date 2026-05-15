@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme (6 days ago)
+- [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme (1 week ago)
 - [webbertakken/email-worker](https://github.com/webbertakken/email-worker) - Lightweight tool to process emails directly from Cloudflare (3 weeks ago)
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions (1 month ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 month ago)
