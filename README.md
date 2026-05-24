@@ -56,7 +56,7 @@
 - [webbertakken/email-worker](https://github.com/webbertakken/email-worker) - Lightweight tool to process emails directly from Cloudflare (1 month ago)
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions (1 month ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 month ago)
-- [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor) - Monitor anything in real time (1 month ago)
+- [homanp/infinite-monitor](https://github.com/homanp/infinite-monitor) - Monitor anything in real time (2 months ago)
 
 
 
