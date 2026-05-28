@@ -34,7 +34,7 @@
 - [hassan-arif/chalo](https://github.com/hassan-arif/chalo) - Ride-hailing app (5 months ago)
 - [hassan-arif/mindflect](https://github.com/hassan-arif/mindflect) - Ai journaling app (5 months ago)
 - [hassan-arif/mehfil](https://github.com/hassan-arif/mehfil) - Social media app (7 months ago)
-- [hassan-arif/guftagu](https://github.com/hassan-arif/guftagu) - Realtime chat app (7 months ago)
+- [hassan-arif/guftagu](https://github.com/hassan-arif/guftagu) - Realtime chat app (8 months ago)
 
 
 
