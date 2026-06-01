@@ -14,6 +14,7 @@
 
 #### 🌱 My latest projects
 
+- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers.
 - [hassan-arif/runtime](https://github.com/hassan-arif/runtime) - Event management platform
 - [hassan-arif/attune](https://github.com/hassan-arif/attune) - Ai mindfulness app
 - [hassan-arif/mindflect](https://github.com/hassan-arif/mindflect) - Ai journaling app
@@ -23,16 +24,16 @@
 - [hassan-arif/todos](https://github.com/hassan-arif/todos) - Checklist mobile application
 - [hassan-arif/booking-bot](https://github.com/hassan-arif/booking-bot) - Hotel data&#39;s scraping tool
 - [hassan-arif/cocode](https://github.com/hassan-arif/cocode) - Realtime collaborative code editor
-- [hassan-arif/lung-cancer-prediction](https://github.com/hassan-arif/lung-cancer-prediction) - ~99% accurate ml model to predict lung cancer&#39;s risk
 
 
 
 #### 👷 Check out what I'm currently working on
 
+- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers. (1 day ago)
 - [hassan-arif/runtime](https://github.com/hassan-arif/runtime) - Event management platform (4 months ago)
 - [hassan-arif/attune](https://github.com/hassan-arif/attune) - Ai mindfulness app (4 months ago)
-- [hassan-arif/chalo](https://github.com/hassan-arif/chalo) - Ride-hailing app (5 months ago)
 - [hassan-arif/mindflect](https://github.com/hassan-arif/mindflect) - Ai journaling app (5 months ago)
+- [hassan-arif/chalo](https://github.com/hassan-arif/chalo) - Ride-hailing app (5 months ago)
 - [hassan-arif/mehfil](https://github.com/hassan-arif/mehfil) - Social media app (7 months ago)
 - [hassan-arif/guftagu](https://github.com/hassan-arif/guftagu) - Realtime chat app (8 months ago)
 
