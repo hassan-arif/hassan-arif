@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers. (2 days ago)
+- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers. (3 days ago)
 - [hassan-arif/runtime](https://github.com/hassan-arif/runtime) - Event management platform (4 months ago)
 - [hassan-arif/attune](https://github.com/hassan-arif/attune) - Ai mindfulness app (5 months ago)
 - [hassan-arif/mindflect](https://github.com/hassan-arif/mindflect) - Ai journaling app (5 months ago)
