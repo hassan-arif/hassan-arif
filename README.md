@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers. (6 days ago)
+- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers. (1 week ago)
 - [hassan-arif/runtime](https://github.com/hassan-arif/runtime) - Event management platform (5 months ago)
 - [hassan-arif/attune](https://github.com/hassan-arif/attune) - Ai mindfulness app (5 months ago)
 - [hassan-arif/mindflect](https://github.com/hassan-arif/mindflect) - Ai journaling app (5 months ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme (4 weeks ago)
+- [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme (1 month ago)
 - [webbertakken/email-worker](https://github.com/webbertakken/email-worker) - Lightweight tool to process emails directly from Cloudflare (1 month ago)
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions (1 month ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 month ago)
