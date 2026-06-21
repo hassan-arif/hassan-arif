@@ -29,7 +29,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers. (2 weeks ago)
+- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers. (3 weeks ago)
 - [hassan-arif/runtime](https://github.com/hassan-arif/runtime) - Event management platform (5 months ago)
 - [hassan-arif/attune](https://github.com/hassan-arif/attune) - Ai mindfulness app (5 months ago)
 - [hassan-arif/mindflect](https://github.com/hassan-arif/mindflect) - Ai journaling app (5 months ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (2 days ago)
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (3 days ago)
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme (1 month ago)
 - [webbertakken/email-worker](https://github.com/webbertakken/email-worker) - Lightweight tool to process emails directly from Cloudflare (2 months ago)
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions (2 months ago)
