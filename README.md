@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (5 days ago)
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (6 days ago)
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme (1 month ago)
 - [webbertakken/email-worker](https://github.com/webbertakken/email-worker) - Lightweight tool to process emails directly from Cloudflare (2 months ago)
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions (2 months ago)
