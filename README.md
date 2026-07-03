@@ -14,11 +14,14 @@ Interested in software engineering, AI engineering, and open source.
 
 #### 🌱 Recent Projects
 
-- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern Mediterranean restaurant website built with Next.js and FastAPI, optimized for SEO and AI crawlers.
-- [hassan-arif/runtime](https://github.com/hassan-arif/runtime) - Event management platform
+
+
+- [hassan-arif/olea](https://github.com/hassan-arif/olea) - Modern mediterranean restaurant website
 - [hassan-arif/attune](https://github.com/hassan-arif/attune) - Ai mindfulness app
 - [hassan-arif/mindflect](https://github.com/hassan-arif/mindflect) - Ai journaling app
 - [hassan-arif/chalo](https://github.com/hassan-arif/chalo) - Ride-hailing app
+- [hassan-arif/mehfil](https://github.com/hassan-arif/mehfil) - Social media app
+
 
 ## Tech
 
@@ -27,3 +30,5 @@ Interested in software engineering, AI engineering, and open source.
 **Frontend** - React Native · React · Next.js · Tailwind CSS  
 **Backend** - FastAPI · PostgreSQL · MongoDB  
 **Tools** - Docker · Git · Firebase · Sentry
+
+
