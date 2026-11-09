@@ -1,18 +1,17 @@
+
 # 👨🏻‍💻 [Hassan Mahmood](https://linkedin.com/in/ihassanmahmood)
 
 [![GitHub followers](https://img.shields.io/github/followers/hassan-arif?label=Follow&style=social)](https://github.com/hassan-arif/?tab=follow)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/ihassanmahmood/)
-[![wakatime](https://wakatime.com/badge/user/8c559fa0-fa9f-424b-b7e9-f23470599396.svg)](https://wakatime.com/@8c559fa0-fa9f-424b-b7e9-f23470599396)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/ihassanmahmood/)
+[![WakaTime](https://wakatime.com/badge/user/8c559fa0-fa9f-424b-b7e9-f23470599396.svg)](https://wakatime.com/@8c559fa0-fa9f-424b-b7e9-f23470599396)
 
-Software engineer building modern web, mobile, desktop, and AI applications.
+Software Engineer at Dubizzle Labs, working across web and mobile applications.
 
-I enjoy designing maintainable software, solving real-world problems, and exploring modern AI tooling, developer productivity, and software architecture.
+Over two years of professional experience with React, React Native, and TypeScript, including multi-tenant applications, framework migrations, performance improvements, and production releases.
 
-Interested in software engineering, AI engineering, and open source.
+Outside work, I build full-stack and AI applications using Node.js, Python, FastAPI, PostgreSQL, and LangChain.
 
-<sub>_open to interesting work_</sub>
-
-#### 🌱 Recent Projects
+## 🌱 Recent Projects
 
 {{with recentRepos 5}}
 {{range .}}
@@ -22,10 +21,8 @@ Interested in software engineering, AI engineering, and open source.
 
 ## Tech
 
-**Languages** - Python · TypeScript · JavaScript · SQL  
-**AI & LLMs** - LangChain · LangGraph · OpenAI · Gemini · Ollama · FAISS  
-**Frontend** - React Native · React · Next.js · Tailwind CSS  
-**Backend** - FastAPI · PostgreSQL · MongoDB  
+**Languages** - TypeScript · JavaScript · Python · SQL
+**Frontend & Mobile** - React Native · React · Next.js · Tailwind CSS
+**Backend & Databases** - Node.js · Express.js · FastAPI · PostgreSQL · MongoDB
+**AI & LLMs** - LangChain · LangGraph · OpenAI · Gemini · Ollama · FAISS
 **Tools** - Docker · Git · Firebase · Sentry
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=hassan-arif&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true) -->
