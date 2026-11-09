@@ -24,8 +24,8 @@ Outside work, I build full-stack and AI applications using Node.js, Python, Fast
 
 ## Tech
 
-**Languages** - TypeScript · JavaScript · Python · SQL
-**Frontend & Mobile** - React Native · React · Next.js · Tailwind CSS
-**Backend & Databases** - Node.js · Express.js · FastAPI · PostgreSQL · MongoDB
-**AI & LLMs** - LangChain · LangGraph · OpenAI · Gemini · Ollama · FAISS
-**Tools** - Docker · Git · Firebase · Sentry
+**Languages** - TypeScript · JavaScript · Python · SQL </br>
+**Frontend & Mobile** - React Native · React · Next.js · Tailwind CSS </br>
+**Backend & Databases** - Node.js · Express.js · FastAPI · PostgreSQL · MongoDB </br>
+**AI & LLMs** - LangChain · LangGraph · OpenAI · Gemini · Ollama · FAISS </br>
+**Tools** - Docker · Git · Firebase · Sentry </br>
